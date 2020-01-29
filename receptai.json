@@ -1,0 +1,59 @@
+{ 
+    "receptai": {
+
+        "sriubos" : [
+            {
+                "pavadinimas": "Ukrainietiški barščiai", 
+                "ingredientai": [
+                    "500 gramų jautienos" ,
+                     "500 gramų kiaulienos" ,
+                     "300 gramų kopūstų", 
+                     "200 gramų bulvių ",
+                      "2 vienetai burokelių."
+                    ]
+                   
+                        
+                    
+                    }
+        ],
+        "karstipatiekalai" : [
+            {
+                "pavadinimas" : "Keptos bulvės įdarytos sūriu",
+                "ingredientai" : [
+                    "2 bulvės",
+                    "50 g fetos sūrio",
+                    "Kalendra",
+                    "2 skiltelės česnako",
+                    "2 a. š. aliejaus"
+                ]
+            }
+        ],
+        "salotos" : [
+            {
+                "pavadinimas" : "Azijietiškos agurkų ir morkų salotos",
+                "ingredientai" : [
+                    "4 vienetai agurkų",
+                    "2 vienetai morkų", 
+                    "2 šaukštai sojos padažo", 
+                    "2 šaukštai skrudintų sezamų aliejaus",
+                    "2 šaukštai cukraus (galima keisti švelnaus skonio medumi)",
+                    "1 šaukštas ryžių acto (arba obuolių acto)"
+                ]
+            }
+        ],
+        "uzkandziai" : [
+            {
+                "pavadinimas" : "Gaivūs sumuštiniai su varškės, avokadų ir agurkų užtepėle",
+                "ingredientai" : [
+                    "180 gramu varškės 9% (iš kvadratinių pakelių)",
+                    "100 gramų agurkų (daugmaž 1 didesnio)", 
+                    "0.5 vieneto avokadų (nebūtina, bet labai tinka)", 
+                    "1 šaukštas graikiško jogurto (kupino)",
+                    "2 skiltelės česnako",
+                    "Pagal poreikį juodos duonos"
+                ]
+            }
+        ]
+    }
+    
+}
